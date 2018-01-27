@@ -17,6 +17,6 @@ Input data consisting:
 ![Finished run][screen]
 
 + Red circles - lidar measurements.
-+ Blue circles are radar measurements
++ Blue circles - radar measurements
 + Green markers - car's position estimated by implemented KalmanFilter. RMSE values fit to project requirements.
 
